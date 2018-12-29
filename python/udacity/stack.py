@@ -21,13 +21,12 @@ class LinkedList(object):
         self.head = new_element
 
     def delete_first(self):
+        deleted_element = self.head
         if self.head:
-            deleted_element = self.head
-            temp = deleted_element.next
-            self.head = temp
-            return deleted_element
-        else:
-            return None
+            self.head = self.head.next
+            deleted_element.next = None
+        return deleted_element
+
 
 class Stack(object):
     def __init__(self,top=None):
