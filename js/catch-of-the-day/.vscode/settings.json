@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnSave": true
+}
