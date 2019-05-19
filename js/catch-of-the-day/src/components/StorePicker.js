@@ -5,7 +5,7 @@ class StorePicker extends React.Component {
   storeInput = React.createRef();
 
   // If it's a class method, then this is not bound to the instance
-  // the function will be stored in the prototype
+  // The function will be stored in the prototype
   // Because this is not bound to the instance, when you pass a reference
   // to the function, this will be undefined
   // and so you have to use this.goToStore.bind(this) whenever passing it as a reference

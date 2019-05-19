@@ -1,0 +1,14 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "Javascript exercises",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elisabeta Nitura",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
