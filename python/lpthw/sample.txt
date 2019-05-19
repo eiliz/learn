@@ -1,0 +1,11 @@
+Because we always want to have a plan, we should make a list of these issues and tackle them one by one:
+
+• Knowing which digits to double
+
+• Treating doubled numbers 10 and greater according to their individual digits
+
+• Knowing we’ve reached the end of the number
+
+• Reading each digit separately
+
+To solve problems, we’ll be working on individual pieces before writing a final solution. Thus, there is no need to work on these issues in any particular order. Start with the issue that looks the easiest or, if you want a challenge, the one that looks the most difficult. Or just start with the one that’s the most interesting.
